@@ -1,0 +1,1 @@
+node test.js credentials.json "Global top 50" 
